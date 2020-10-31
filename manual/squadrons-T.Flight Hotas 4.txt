@@ -3,7 +3,7 @@ Rocker:
 Twist:
 X Axis:
 Y Axis:
-    Lol, do it yourself. I'm lazy. These are easy to customize.
+    These are easy to customize, up to you.
 
 POV Hat [All directions] (Right Stick):
     Navigate in control editing menu
