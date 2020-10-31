@@ -68,6 +68,7 @@ Button 11 [Share] (Throttle):
 
 Button 12 [Options] (Throttle):
     Free Look
+    Launch Ship
 
 PS Button:
     Doesn't map to anything. Switches between 4/6 and 5/8 mode.
