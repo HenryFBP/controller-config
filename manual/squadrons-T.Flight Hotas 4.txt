@@ -1,5 +1,16 @@
-Button 1:
-    Fire Blaster
+Throttle:
+Rocker:
+Twist:
+X Axis:
+Y Axis:
+    Lol, do it yourself. I'm lazy. These are easy to customize.
 
-Button 2:
-    
+Button 1 [R1] (Right Stick Trigger):
+    Fire Blaster
+    Confirm in menus
+
+Button 2 [L1] (Right Stick Missile):
+    Left Special Weapon
+
+Button 3 [R3] (Right Stick Index Finger Button):
+    todo lol git commit 'lol'
