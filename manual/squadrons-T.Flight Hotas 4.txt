@@ -52,7 +52,7 @@ Button 7 [PS4 Circle] (Throttle):
     Focus Shields/Convert Power
 
 Button 8 [PS4 Triangle] (Throttle):
-    Pibg Target
+    Ping Target
     (Double Tap) Acknowledge Ping
     (Hold) Comms Wheel
 
