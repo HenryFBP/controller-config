@@ -67,7 +67,7 @@ Button 11 [Share] (Throttle):
     Pause
 
 Button 12 [Options] (Throttle):
-    Free Look
+    Free Look Toggle
     Launch Ship
 
 PS Button:
