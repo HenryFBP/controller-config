@@ -6,48 +6,68 @@ Y Axis:
     Lol, do it yourself. I'm lazy. These are easy to customize.
 
 POV Hat [All directions] (Right Stick):
-    Navigate in menus
+    Navigate in control editing menu
+    Navigate in most combat/shield wheel menus
 
 POV Hat [North] (Right Stick):
-    (Hold) Shield Weapon Priority
+    Power to Weapons
+
+POV Hat [East] (Right Stick):
+    Power to Shields
+
+POV Hat [South] (Right Stick):
+    Balance Power
+
+POV Hat [West] (Right Stick):
+    Power to Engines
 
 Button 1 [R1] (Right Stick) Trigger:
     Fire Blaster
     Confirm in menus
+    Confirm in most combat/shield wheel menus
 
 Button 2 [L1] (Right Stick) Missile?:
-    Left Special Weapon
+    Fire Left Special Weapon
+    (Double Tap) Dumb Fire Left Special Weapon
     Cancel/Back in menus
 
 Button 3 [R3] (Right Stick) Index Finger Button:
-    IDK
+    Select Target Ahead
+    (Hold) Targeting Wheel
 
-Button 4 [R4] (Right Stick) Missile 2?:
-    Right Special Weapon
+Button 4 [L3] (Right Stick) Missile 2?:
+    Fire Right Special Weapon
+    (Double Tap) Dumb Fire Right Special Weapon
 
 Button 5 [PS4 Square] (Throttle):
-    IDK
+    Menu Navigate Up/Left
+    Cycle Targets
 
 Button 6 [PS4 X] (Throttle):
-    IDK
+    Menu Navigate Down/Right
+    Deploy Countermeasures
 
 Button 7 [PS4 Circle] (Throttle):
-    IDK
+    Social Menu Open/Close
+    Focus Shields/Convert Power
 
 Button 8 [PS4 Triangle] (Throttle):
-    IDK
+    Pibg Target
+    (Double Tap) Acknowledge Ping
+    (Hold) Comms Wheel
 
 Button 9 [R2] (Throttle):
-    IDK
+    Boost
+    (Hold Button) Drift
 
 Button 10 [L2] (Throttle):
-    IDK
+    Targeting Wheel
 
 Button 11 [Share] (Throttle):
     Pause
 
 Button 12 [Options] (Throttle):
-    IDK
+    Free Look
 
 PS Button:
     Doesn't map to anything. Switches between 4/6 and 5/8 mode.
