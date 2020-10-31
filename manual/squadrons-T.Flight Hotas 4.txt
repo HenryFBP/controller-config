@@ -5,12 +5,49 @@ X Axis:
 Y Axis:
     Lol, do it yourself. I'm lazy. These are easy to customize.
 
-Button 1 [R1] (Right Stick Trigger):
+POV Hat [All directions] (Right Stick):
+    Navigate in menus
+
+POV Hat [North] (Right Stick):
+    (Hold) Shield Weapon Priority
+
+Button 1 [R1] (Right Stick) Trigger:
     Fire Blaster
     Confirm in menus
 
-Button 2 [L1] (Right Stick Missile):
+Button 2 [L1] (Right Stick) Missile?:
     Left Special Weapon
+    Cancel/Back in menus
 
-Button 3 [R3] (Right Stick Index Finger Button):
-    todo lol git commit 'lol'
+Button 3 [R3] (Right Stick) Index Finger Button:
+    IDK
+
+Button 4 [R4] (Right Stick) Missile 2?:
+    Right Special Weapon
+
+Button 5 [PS4 Square] (Throttle):
+    IDK
+
+Button 6 [PS4 X] (Throttle):
+    IDK
+
+Button 7 [PS4 Circle] (Throttle):
+    IDK
+
+Button 8 [PS4 Triangle] (Throttle):
+    IDK
+
+Button 9 [R2] (Throttle):
+    IDK
+
+Button 10 [L2] (Throttle):
+    IDK
+
+Button 11 [Share] (Throttle):
+    Pause
+
+Button 12 [Options] (Throttle):
+    IDK
+
+PS Button:
+    Doesn't map to anything. Switches between 4/6 and 5/8 mode.
